@@ -10,6 +10,8 @@
     * [2.2  命名](html/2-dai-ma-feng-ge/22-ming-ming.md)
     * [2.3  标签](html/2-dai-ma-feng-ge/23-biao-qian.md)
     * [2.4  属性](html/2-dai-ma-feng-ge/24-shu-xing.md)
+  * [3 、通用](html/3-3001-tong-yong.md)
+    * 3.1 DOCTYPE
 * [Css](css.md)
 * [Javascript](javascript.md)
 
