@@ -14,7 +14,7 @@
     * [3.1 DOCTYPE](html/3-3001-tong-yong/31-doctype.md)
     * [3.2  编码](html/3-3001-tong-yong/32-bian-ma.md)
     * [3.3  CSS和JavaScript引入](html/3-3001-tong-yong/33-csshe-javascript-yin-ru.md)
-  * 4 、head
+  * [4 、head](html/4-head.md)
     * [4.1 title](html/41-title.md)
 * [Css](css.md)
 * [Javascript](javascript.md)
