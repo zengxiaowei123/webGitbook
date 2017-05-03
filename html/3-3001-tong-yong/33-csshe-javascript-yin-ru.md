@@ -1,4 +1,4 @@
-\[强制\] 引入 CSS 时必须指明 rel="stylesheet"。
+**\[强制\]** 引入 CSS 时必须指明 rel="stylesheet"。
 
 示例：
 
@@ -32,9 +32,11 @@ text/css 和 text/javascript 是 type 的默认值。
 
 &lt;body&gt;
 
-    &lt;!-- a lot of elements --&gt;
+```
+&lt;!-- a lot of elements --&gt;
 
-    &lt;script src="init-behavior.js"&gt;&lt;/script&gt;
+&lt;script src="init-behavior.js"&gt;&lt;/script&gt;
+```
 
 &lt;/body&gt;
 
@@ -47,6 +49,4 @@ text/css 和 text/javascript 是 type 的默认值。
 示例：
 
 &lt;script src="//s1.bdstatic.com/cache/static/jquery-1.10.2.min\_f2fb5194.js"&gt;&lt;/script&gt;
-
-
 
