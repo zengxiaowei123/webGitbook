@@ -25,6 +25,4 @@
     * [6.3  可访问性 \(A11Y\)](html/6-biao-dan/63-ke-fang-wen-xing-a11y.md)
   * [7、 多媒体](html/7-duo-mei-ti.md)
   * [8、模板中的 HTML](html/83001-mo-ban-zhong-de-html.md)
-* [Css](css.md)
-* [Javascript](javascript.md)
 
